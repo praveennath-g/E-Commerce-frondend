@@ -1,0 +1,185 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    
+}
+
+.main {
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid #ddd;
+    background-color: rgba(69, 226, 187, 0.966);
+}
+.main button{
+    padding: 10px 15px;
+    background-color: #c99ab9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+}
+.main button:hover{
+    background-color: #45a049;
+}
+.main p{
+    margin: 10px;
+}
+.main2 h1{
+    justify-content: space-between;
+    padding: 20px 15px;
+    align-items: center;
+    
+}
+.main2 h3{
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+    
+
+}
+.main2 li{
+    margin-bottom: 10px;
+    padding: 10px;
+}  */
+/* .main2 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  h1, h3 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .main {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .payment-gateway {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .payment-gateway h2 {
+    color: #333;
+  }
+  
+  .payment-gateway p {
+    margin-bottom: 10px;
+  }
+  
+  .payment-gateway button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .payment-gateway button:hover {
+    background-color: #0056b3;
+  }
+   */
+
+
+
+   /* Main container styles */
+.payment-process {
+    background-color: #92C7CF;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  /* Heading styles */
+  .payment-process h1, .payment-process h3 {
+    color: #333;
+  }
+  
+  /* List styles */
+  .payment-process ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .payment-process li {
+    margin-bottom: 10px;
+  }
+  
+  /* Payment gateway container styles */
+  .payment-gateway {
+    background-color: #AAD9BB;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .payment-gateway h2 {
+    color: #333;
+  }
+  
+  .payment-gateway p {
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .payment-gateway button, .payment-process button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .payment-gateway button:hover, .payment-process button:hover {
+    background-color: #0056b3;
+  }
+  
+  
